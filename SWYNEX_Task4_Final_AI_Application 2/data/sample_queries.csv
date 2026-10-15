@@ -1,0 +1,16 @@
+query,category,priority
+I cannot log in to my account,Account Access,High
+Please reset my password,Account Access,Medium
+My account has been locked,Account Access,High
+I was charged twice for my subscription,Billing,High
+Please explain the invoice on my bill,Billing,Medium
+I need a refund for my last payment,Billing,High
+The app crashes when I open it,Technical Issue,High
+The website is loading very slowly,Technical Issue,Medium
+I see an error message on the dashboard,Technical Issue,High
+How can I change my profile picture,General Question,Low
+Where can I find the user guide,General Question,Low
+What features are included in my plan,General Question,Low
+I want to cancel my subscription,Account Management,Medium
+Please update my email address,Account Management,Medium
+I cannot update my personal details,Account Management,Medium
